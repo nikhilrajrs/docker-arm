@@ -1,4 +1,4 @@
 #!/bin/sh
 
-docker build -t nginx_dynamic .
+docker build -t arm/nginx_dynamic .
 
